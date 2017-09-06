@@ -14,6 +14,7 @@
     'website': "viki2.odoo.com",
     'category': 'sale',
     'version': '10.0.0.1.0',
+    'license': 'AGPL-3',
     'depends': ['base','sale',
                 ],
     'images': ['images/main_screenshot.png'],

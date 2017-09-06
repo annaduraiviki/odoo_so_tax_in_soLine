@@ -6,7 +6,7 @@
 Subtotal with TAX in SO line
 ============================
 
-*This module calculates TAX amount for each SO line and display it in SO Line.
+* This module calculates TAX amount for each SO line and display it in SO Line.
 
 Contributors
 ------------
